@@ -1,0 +1,10 @@
+var wordpress_url = "https://www.marketplace.kholis.net";
+var onesignal_app_id = "00bc6a5d-df31-4d69-bf64-cb97730ebe2e";
+var google_web_api_key = "486944611348-ubf0mlrhtabosimclvohndc6r39qfo0g.apps.googleusercontent.com";
+var wordpress_per_page = 10;
+var post_per_page = 4;
+var request_timeout = 15000; // milliseconds 
+var notice_timeout = 2000; // milliseconds
+var slide_time = 3000; // milliseconds
+var hide_sale = true;
+var hide_available_stock = true;
